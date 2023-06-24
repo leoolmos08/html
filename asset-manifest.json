@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.107e14cd.css",
+    "main.js": "/static/js/main.83b0eb3a.js",
+    "static/js/787.70544bd0.chunk.js": "/static/js/787.70544bd0.chunk.js",
+    "static/media/banner-inicio-desktop.png": "/static/media/banner-inicio-desktop.62c3453626808f85d7d3.png",
+    "static/media/banner-inicio-video.mp4": "/static/media/banner-inicio-video.d51cbb1ae929474d2782.mp4",
+    "static/media/banner-inicio .png": "/static/media/banner-inicio .d9f05a6a25e516269a24.png",
+    "static/media/truck-bg-cut.jpg": "/static/media/truck-bg-cut.09e8a3fa9195342ba63f.jpg",
+    "index.html": "/index.html",
+    "main.107e14cd.css.map": "/static/css/main.107e14cd.css.map",
+    "main.83b0eb3a.js.map": "/static/js/main.83b0eb3a.js.map",
+    "787.70544bd0.chunk.js.map": "/static/js/787.70544bd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.107e14cd.css",
+    "static/js/main.83b0eb3a.js"
+  ]
+}
